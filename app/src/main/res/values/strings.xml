@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SDCardSample</string>
+    <string name="ok">ok</string>
+    <string name="obavestenje">Omogucite dozvolu inace necete moci da koristite app</string>
+</resources>
